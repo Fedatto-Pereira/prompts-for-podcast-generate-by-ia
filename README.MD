@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Gemini_Generated_Image_2wsvk42wsvk42wsv.jpg"
     width="300"
 />
 </p>
